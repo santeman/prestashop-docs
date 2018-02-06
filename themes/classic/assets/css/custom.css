@@ -1,0 +1,72 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+/*===================SLIDER======================*/
+.mainSlider ul {
+    height: 500px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+#carousel {
+    height: 100%;
+    margin: 0 auto;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/*====================MAIN-MENU====================*/
+
+#top-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-menu .sub-menu {
+    margin-left: 0;
+    width: 100%;
+}
+
+#_desktop_top_menu {
+    padding: 0;
+    width: 100%;
+}
+
+#dropdown-item {
+    color: red;
+}
+
+#dropdown-submenu {
+    color: #000000;
+    text-align: center;
+    padding: 0;
+}
+
+.category li {
+    text-align: center;
+    float: left;
+    padding: 10px 15px 20px 0;
+    margin: 0;
+    width: 20%;
+    text-decoration: none;
+}
+
+/*======================HEADER=====================*/
+
+.displaytop {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.search-widget {
+    margin: 0 auto;
+}
+
+.freesend {
+    margin: 10px 0 0 0;
+}

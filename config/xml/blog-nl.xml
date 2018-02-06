@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/nl/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/nl/blog/feed.xml</link>
+    <description></description>
+    <language>nl</language>
+     <atom:link href="https://www.prestashop.com/nl/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Hoe behaalt u online succes met uw webshop?</title>
+    <link>https://www.prestashop.com/nl/blog/evenementen/hoe-behaalt-u-online-succes-met-uw-webshop</link>
+    <description>Een webshop bouwen is niet moeilijk. Er geld mee verdienen is heel wat anders...
+ </description>
+     <pubDate>Tue, 31 Oct 2017 10:18:10 +0100</pubDate>
+ <dc:creator>marketingpartner.be</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/evenementen/hoe-behaalt-u-online-succes-met-uw-webshop</guid>
+  </item>
+  <item>
+    <title>3 redenen om PrestaShop te bezoeken op de E-Commerce Xpo in Kortrijk</title>
+    <link>https://www.prestashop.com/nl/blog/ecommerce-xpo-kortrijk-2017</link>
+    <description>Het is ons een genoegen u te kunnen melden dat we op 6 en 7 november aanwezig zullen zijn op de E-Commercebeurs Xpo in Kortrijk.</description>
+     <pubDate>Thu, 19 Oct 2017 13:53:42 +0200</pubDate>
+ <dc:creator>Stefaan</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/ecommerce-xpo-kortrijk-2017</guid>
+  </item>
+  <item>
+    <title>Integratiefonds: al 1000 aanmeldingen!</title>
+    <link>https://www.prestashop.com/nl/blog/integratiefonds-1000-applicaties</link>
+    <description>Integratiefonds: wat is er tot nu toe bereikt?</description>
+     <pubDate>Wed, 18 Oct 2017 11:14:34 +0200</pubDate>
+ <dc:creator>margauxchoplin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/integratiefonds-1000-applicaties</guid>
+  </item>
+  <item>
+    <title>2017 stevent af op een nieuw record: tot dusver werden er 100+ PrestaShop-bijeenkomsten georganiseerd!</title>
+    <link>https://www.prestashop.com/nl/blog/2017-stevent-af-op-een-nieuw-record-tot-dusver-werden-er-100-prestashop-bijeenkomsten-georganiseerd</link>
+    <description>23 september 2017 is een zeer speciale dag voor PrestaShop en zijn community. Waarom? Omdat op die dag de 100ste bijeenkomst sinds 1 januari zal plaatsvinden!</description>
+     <pubDate>Tue, 03 Oct 2017 11:11:07 +0200</pubDate>
+ <dc:creator>AmbassadorTeam</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/2017-stevent-af-op-een-nieuw-record-tot-dusver-werden-er-100-prestashop-bijeenkomsten-georganiseerd</guid>
+  </item>
+  <item>
+    <title>HTTP 500-Interne serverfout - Uitleg en oplossing</title>
+    <link>https://www.prestashop.com/nl/blog/http-500-interne-serverfout-uitleg-en-oplossing</link>
+    <description>De gevreesde foutmelding ‘HTTP 500-Interne serverfout’ zal de glimlach van de eigenaar van een webwinkel snel in een verwarde blik veranderen.</description>
+     <pubDate>Fri, 01 Sep 2017 16:57:12 +0200</pubDate>
+ <dc:creator>benjamin utterback</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/http-500-interne-serverfout-uitleg-en-oplossing</guid>
+  </item>
+  <item>
+    <title>Profiteer van de groeiende grensoverschrijdende e-commerce </title>
+    <link>https://www.prestashop.com/nl/blog/ecommerce-trends/profiteer-van-de-groeiende-grensoverschrijdende-e-commerce</link>
+    <description>Enthousiast shoppen kent geen landsgrenzen meer.</description>
+     <pubDate>Fri, 25 Aug 2017 15:41:44 +0200</pubDate>
+ <dc:creator>prestashop-partners</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/ecommerce-trends/profiteer-van-de-groeiende-grensoverschrijdende-e-commerce</guid>
+  </item>
+  <item>
+    <title>Foutmelding ‘HTTP 404 - Pagina niet gevonden’ - Hoe oplossen?</title>
+    <link>https://www.prestashop.com/nl/blog/http-404-error-pagina-niet-gevonden-foutmelding-oplossen</link>
+    <description>De foutmelding ‘Error 404-Pagina niet gevonden’ kan een groot probleem betekenen voor een webwinkel en zijn klanten. De verkoop en klanttevredenheid zal dalen.</description>
+     <pubDate>Tue, 22 Aug 2017 16:04:24 +0200</pubDate>
+ <dc:creator>benjamin utterback</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/http-404-error-pagina-niet-gevonden-foutmelding-oplossen</guid>
+  </item>
+  <item>
+    <title>Back to School, Black Friday, Kerstmis: Download uw e-commerce gids voor het einde van het jaar</title>
+    <link>https://www.prestashop.com/nl/blog/prestashop-news/back-to-school-black-friday-kerstmis-download-uw-e-commerce-gids-voor-het-einde-van-het-jaar</link>
+    <description>Back to School, Black Friday, Kerstmis: in slechts enkele maanden wordt het merendeel van de omzet van e-commerce activiteiten behaald.
+En deze uitdaging begint... nu!</description>
+     <pubDate>Mon, 17 Jul 2017 14:24:15 +0200</pubDate>
+ <dc:creator>Cécile Dubouis</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/prestashop-news/back-to-school-black-friday-kerstmis-download-uw-e-commerce-gids-voor-het-einde-van-het-jaar</guid>
+  </item>
+  <item>
+    <title>Planning en tips voor efficiënte aanbiedingen op PrestaShop</title>
+    <link>https://www.prestashop.com/nl/blog/e-commerce-tips-en-advies/planning-en-tips-voor-efficiente-aanbiedingen-op-prestashop</link>
+    <description>Zomer, het nieuwe schooljaar, Black Friday, kerst... Zo tegen het einde van het jaar zijn er veel momenten die voor e-commerce belangrijk zijn.</description>
+     <pubDate>Mon, 19 Jun 2017 11:13:30 +0200</pubDate>
+ <dc:creator>Cécile Dubouis</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/e-commerce-tips-en-advies/planning-en-tips-voor-efficiente-aanbiedingen-op-prestashop</guid>
+  </item>
+  <item>
+    <title>9 modules om snel meer bezoekers naar uw webwinkel te trekken</title>
+    <link>https://www.prestashop.com/nl/blog/uncategorized/9-modules-om-snel-meer-bezoekers-naar-uw-webwinkel-te-trekken</link>
+    <description>Hoe mooi uw webwinkel ook is, als er geen bezoekers zijn, krijgt u geen klanten. Gelukkig kunt u meer bezoekersverkeer genereren zonder hier de hele dag mee bezig te hoeven zijn!</description>
+     <pubDate>Mon, 12 Jun 2017 12:11:42 +0200</pubDate>
+ <dc:creator>Cécile Dubouis</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/nl/blog/uncategorized/9-modules-om-snel-meer-bezoekers-naar-uw-webwinkel-te-trekken</guid>
+  </item>
+  </channel>
+</rss>
